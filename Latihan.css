@@ -3,10 +3,12 @@ body {
   background: #f4f4f4;
   margin: 0;
 }
+
 .container {
   width: 80%;
   margin: auto;
 }
+
 .card {
   background: white;
   padding: 20px;
