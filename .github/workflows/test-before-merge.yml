@@ -13,6 +13,6 @@ steps:
   run: |
     npm install -htmlhint stylelint
   - name: Periksa HTML
-    run: htmlhint Latihan.html
+    run: htmlhint latihan.html
   - name: Periksa CSS
     run: stylelint Latihan.css
